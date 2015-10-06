@@ -20,6 +20,7 @@ def separator
 	puts nil, ("*" * 70)
 end
 
+
 separator
 puts "WYNCODE PIZZA \n\n\n 400 NW 26th St \n Miami, FL 33127 \n +1-305-720-2422".center(125)
 separator
@@ -45,3 +46,6 @@ puts "The total per person is $" + decimals(total_per_person)
 separator
 puts "******VISIT US AT WYNCODEPIZZA.COM*******".center(70)
 separator
+
+
+#Nicely Done! Katherine!
